@@ -1,0 +1,11 @@
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csprojAssemblyReference.cache
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.csproj.CoreCompileInputs.cache
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfoInputs.cache
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.AssemblyInfo.cs
+C:\Users\Kosta\source\repos\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.deps.json
+C:\Users\Kosta\source\repos\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.json
+C:\Users\Kosta\source\repos\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.runtimeconfig.dev.json
+C:\Users\Kosta\source\repos\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Kosta\source\repos\AnimalCentre\bin\Debug\netcoreapp2.0\AnimalCentre.pdb
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.dll
+C:\Users\Kosta\source\repos\AnimalCentre\obj\Debug\netcoreapp2.0\AnimalCentre.pdb
